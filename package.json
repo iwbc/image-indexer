@@ -1,0 +1,17 @@
+{
+  "name": "@iwbc/image-indexer",
+  "author": "iwbc",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iwbc/image-indexer.git"
+  },
+  "version": "0.1.0",
+  "bin": {
+    "image-indexer": "index.js"
+  },
+  "dependencies": {
+    "chokidar": "^3.5.3",
+    "yargs": "^17.7.2"
+  }
+}
